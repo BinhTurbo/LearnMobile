@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # Run virtual device:
 flutter emulators --launch Pixel_9_Pro
+
+emulator -avd Pixel_9_Pro -no-snapshot -accel on -gpu host
